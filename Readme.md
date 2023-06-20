@@ -3,6 +3,7 @@
 This repository provides a basic boilerplate for creating a REST API using Express and MongoDB. The repository includes the necessary dependencies and a pre-defined folder structure to get you up and running smoothly.
 
 ## Table of Contents
+
 1. [Basic Requirements](#basic-requirements)
 2. [Getting Started](#getting-started)
 3. [Database](#database)
@@ -94,6 +95,7 @@ Some additional directories may be present depending on the requirements of the 
 The API provides endpoints for managing users and products in a simple ecommerce application. Here is a brief overview of the available endpoints:
 
 - **Users**
+
   - `GET /users`: Retrieve a list of all users.
   - `POST /users`: Create a new user.
 
